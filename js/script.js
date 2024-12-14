@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	var canvasContainer = document.querySelector(".canvas-container");
 	// 设置背景图像和背景大小
 	// 在这里输入图片路径
-	canvasContainer.style.backgroundImage = "url('../images/lsq.jpg')"";
+	canvasContainer.style.backgroundImage = "url('./lsq.jpg')"";
 	canvasContainer.style.backgroundSize = "100%";
 });
 
